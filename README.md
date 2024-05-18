@@ -9,5 +9,6 @@ The project includes the following components:
 - Approximate ALU
 - Correcting the ALU using FSM 
 - Testbench for the corrected ALU
+- Matlab Codes for ER and MRED
 
 For more details please refer to the technical report.
